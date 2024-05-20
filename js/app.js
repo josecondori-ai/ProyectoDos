@@ -1,0 +1,1 @@
+let midato="hola mundo"
